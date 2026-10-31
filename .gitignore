@@ -1,0 +1,15 @@
+# Python Virtual Environment
+venv/
+
+# Downloaded AI Models
+hand_landmarker.task
+*.task
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS & VS Code System Files
+.DS_Store
+.vscode/
